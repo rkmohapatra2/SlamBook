@@ -23,7 +23,7 @@
            <form action="admin.php"  method="post">
            USERNAME:<input type="text" name="user" /><br />
            PASSWORD:<input type="password" name='pwd' /><br />
-           <input type="submit" />  
+           <marquee><input type="submit" /></marquee>  
            </form>
              
              
